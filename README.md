@@ -66,3 +66,4 @@ ansible-playbook /var/lib/jenkins/playbook/deployment.yaml
 test github
 >>>>>>> 81c932af064f7a3f3a2abdc9ba14a4dbc36af99c
 # demo1
+# demo1
